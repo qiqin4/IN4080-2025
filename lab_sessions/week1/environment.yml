@@ -1,0 +1,22 @@
+name: in4080_2025
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - seaborn
+  - scikit-learn
+  - spacy
+  - gensim
+  - python-levenshtein
+  - pytorch 
+  - torchvision
+  - transformers
+  - pip
+  - pip:
+    - stanza
